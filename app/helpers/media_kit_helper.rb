@@ -1,0 +1,2 @@
+module MediaKitHelper
+end
