@@ -1,5 +1,6 @@
 class MediaKitController < ApplicationController
   def index
+
   end
   def cash_press1
   end
